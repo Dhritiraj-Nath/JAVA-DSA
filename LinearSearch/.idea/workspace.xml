@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23a13674-1148-452b-8919-92a73a5354a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/LinearSearch..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/src/COM/raj/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/src/COM/raj/FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/src/COM/raj/SearchIin2Darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/src/COM/raj/SearchInStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/src/COM/raj/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/src/COM/raj/maximumwealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinearSearch/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../LinearSearch" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2yzQoyOCaxegyFApJjnQriBpS6B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FindMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.first.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DHRITIRAJ/OneDrive/Desktop/JAVA DSA/LinearSearch/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.FindMin">
+    <configuration name="FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COM.raj.FindMin" />
+      <module name="LinearSearch." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="COM.raj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COM.raj.SearchInRange" />
+      <module name="LinearSearch." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="COM.raj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COM.raj.SearchInStrings" />
+      <module name="LinearSearch." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="COM.raj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="first" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COM.raj.first" />
+      <module name="LinearSearch." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="COM.raj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindMin" />
+        <item itemvalue="Application.SearchInRange" />
+        <item itemvalue="Application.SearchInStrings" />
+        <item itemvalue="Application.first" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23a13674-1148-452b-8919-92a73a5354a1" name="Changes" comment="" />
+      <created>1750835100679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750835100679</updated>
+    </task>
+    <servers />
+  </component>
+</project>
